@@ -1,8 +1,0 @@
-db.mytestcollection.find()
-use admin
-show dbs
-db.mytestcollection.find()
-db.mytestcollection.insertOne({ name: "Rohit", role: "DevOps Engineer" })
-use admin
-show dbs
-showdbs;
