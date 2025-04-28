@@ -1,0 +1,5 @@
+# Ignore MongoDB related files
+templates/mern/data/WiredTiger*
+templates/mern/data/diagnostic.data/metrics.interim
+templates/mern/data/journal/WiredTigerLog*
+
